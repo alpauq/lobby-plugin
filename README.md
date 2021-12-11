@@ -4,9 +4,9 @@ Plugin wprowadza bardzo prosty system lobby na serwerze minecraft. Kompatybilny 
 
 ## Instalacja
 
-1. Pobierz plik [tutaj](https://github.com/alpauq/lobby-plugin/releases/tag/plugin), wybierając plik lobby.jar lub poprzez zakładkę "Releases" po prawej stronie.
+1. Pobierz plik [tutaj](https://github.com/alpauq/lobby-plugin/releases/tag/plugin), wybierając plik `lobby.jar` lub poprzez zakładkę "Releases" po prawej stronie.
 2. Wgraj plugin do folderu `plugins` na twoim serwerze.
-3. Przeładuj serwer poprzez komendę `/reload`
+3. Przeładuj serwer używając komendy `/reload`
 4. Plugin powinien zostać załadowany, upewnij się, że w konsoli nie ma żadnych błędów
 
 ## Funkcje
