@@ -17,10 +17,6 @@ public class TitleAPI {
         ((CraftPlayer)p).getHandle().playerConnection.sendPacket(ppoc);
     }
 
-    public static void sendTitle(Player player, String title, String message) {
-        sendTitle(player, 10, 30, 10, title, message);
-    }
-
     @Deprecated
     public static void sendFullTitle(Player player, Integer fadeIn, Integer stay, Integer fadeOut, String title, String subtitle) {
         sendTitle(player, fadeIn, stay, fadeOut, title, subtitle);
@@ -92,6 +88,10 @@ public class TitleAPI {
         } catch (Exception var11) {
             var11.printStackTrace();
         }
+    }
+    
+    public static void sendTitle(Player player, String title, String message) {
+        sendTitle(player, 10, 30, 10, title, message);
     }
 
     public static void clearTitle(Player player) {
