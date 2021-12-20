@@ -1,7 +1,8 @@
 # Lobby
 
-Plugin wprowadza bardzo prosty system lobby na serwerze minecraft. Kompatybilny z wersją 1.8.8
+[![CodeFactor](https://www.codefactor.io/repository/github/alpauq/lobby-plugin/badge/main)](https://www.codefactor.io/repository/github/alpauq/lobby-plugin/overview/main)
 
+Plugin wprowadza bardzo prosty system lobby na serwerze minecraft. Kompatybilny z wersją 1.8.8
 ## Instalacja
 
 1. Pobierz plik [tutaj](https://github.com/alpauq/lobby-plugin/releases/tag/plugin), wybierając plik `lobby.jar` lub poprzez zakładkę "Releases" po prawej stronie.
