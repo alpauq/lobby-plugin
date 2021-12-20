@@ -8,7 +8,7 @@ public class ChatUtil {
         return ChatColor.translateAlternateColorCodes('&', string)
                 .replace(">>", "»")
                 .replace("<<", "«")
-                .replace("{o}", "\u2022");
+                .replace("{o}", "•");
     }
 
 
